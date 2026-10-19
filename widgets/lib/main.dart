@@ -3,6 +3,7 @@ import 'package:widgets/screens/Main_screen.dart';
 import 'package:widgets/screens/home_screen.dart';
 import 'package:widgets/screens/newsfeed_screen.dart';
 import 'package:widgets/screens/pre_lim.dart';
+import 'package:widgets/screens/profile_screen.dart';
 
 void main() {
   runApp(const MyApp());

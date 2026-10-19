@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:widgets/main.dart';
 
 class Prelimscreen extends StatefulWidget {
